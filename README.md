@@ -37,11 +37,15 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSSJunior&layout=donut)](https://github.com/IsaacSSJunior/github-readme-stats)
 
 <a href="https://github.com/IsaacSSJunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSSJunior&theme=dracula&show_icons=true" />
 </a>
+
+
+
 
 <h3>Onde me encontrar!</h3>
 
