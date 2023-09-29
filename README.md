@@ -14,16 +14,15 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 
 
 **- Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **- DevOps**
@@ -46,6 +45,6 @@
 
 <h3>Onde me encontrar!</h3>
 
-[![Linkedin](https://img.shields.io/badge/-IsaacSSJunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Linkedin](https://img.shields.io/badge/-IsaacSSJunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/isaac-s-s-4a166b268)](linkedin.com/in/isaac-s-s-4a166b268)
 [![Outlook Badge](https://img.shields.io/badge/-isaac.silvajr@sptech.school-006bed?style=flat-square&logo=Outlook&logoColor=white&link=mailto:isaac.silvajr@sptech.school)](mailto:isaac.silvajr@sptech.school)
 [![GitHub](https://img.shields.io/github/followers/IsaacSSJunior?label=follow&style=social)](https://github.com/IsaacSSJunior)
