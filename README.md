@@ -1,9 +1,9 @@
 <h3>Sobre mim!</h3>
 
-- 👋 Olá, eu sou o @IsaacSSJunior.
+- 👋 Olá, eu sou o **@IsaacSSJunior.**
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Análise & Desenvolvimento de Sistemas** na <a href="https://www.sptech.school/">SPTech School</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **SQL WorkBanch & Javascript**.
+- 🌱 Aprendendo mais sobre **SQL WorkBanch & Javascript**.
 
 <h3>Minhas Skills!</h3>
 
