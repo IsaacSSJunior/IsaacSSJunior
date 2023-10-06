@@ -40,25 +40,9 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSSJunior&layout=donut)](https://github.com/IsaacSSJunior/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacSSJunior&show_icons=true&theme=dark#gh-light-mode-only)](https://github.com/IsaacSSJunior/github-readme-stats)
 
-<table >
-  <tr>
-    <td valign="top">
-
-
-
-      
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSSJunior&layout=donut)](https://github.com/IsaacSSJunior/github-readme-stats)
-    </td>
-    <td valign="top">
-      
-    
-  <a href="https://github.com/IsaacSSJunior">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSSJunior&theme=dracula&show_icons=true" />
-      </a>
-    </td>
-  </tr>
-</table>
 
  
 
