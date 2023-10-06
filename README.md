@@ -38,11 +38,31 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSSJunior&layout=donut)](https://github.com/IsaacSSJunior/github-readme-stats)
 
-<a href="https://github.com/IsaacSSJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSSJunior&theme=dracula&show_icons=true" />
-</a>
+
+
+<table >
+  <tr>
+    <td valign="top">
+
+
+
+      
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSSJunior&layout=donut)](https://github.com/IsaacSSJunior/github-readme-stats)
+    </td>
+    <td valign="top">
+      
+    
+  <a href="https://github.com/IsaacSSJunior">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacSSJunior&theme=dracula&show_icons=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+ 
+
+
 
 
 
