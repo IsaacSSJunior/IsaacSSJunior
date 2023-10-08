@@ -19,7 +19,6 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 
-
 **- Utilidades**
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
@@ -36,20 +35,6 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacSSJunior&layout=donut)](https://github.com/IsaacSSJunior/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacSSJunior&show_icons=true&theme=dark#gh-light-mode-only)](https://github.com/IsaacSSJunior/github-readme-stats)
-
-
- 
-
-
-
-
-
 
 <h3>Onde me encontrar!</h3>
 
