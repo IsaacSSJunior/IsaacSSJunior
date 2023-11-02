@@ -1,6 +1,7 @@
-<h1 align="center"</h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Isaac+Souza!;Software+Developer!" />
-</h1>
+<div align="center"</div>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Hello+World!;+I'm+Isaac+Souza!;Software+Developer!" />
+</div>
+<hr>
 <h3>Sobre mim!</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
