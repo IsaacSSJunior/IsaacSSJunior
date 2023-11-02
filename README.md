@@ -1,6 +1,8 @@
+<h1 align="center"</h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Isaac+Souza!;Software+Developer!" />
+</h1>
 <h3>Sobre mim!</h3>
 
-- 👋 Olá, eu sou o **@IsaacSSJunior.**
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Análise & Desenvolvimento de Sistemas** na <a href="https://www.sptech.school/">SPTech School</a>.
 - 🌱 Aprendendo mais sobre **SQL WorkBanch & Javascript**.
