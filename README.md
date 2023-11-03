@@ -1,5 +1,5 @@
 <div align="center"</div>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=40&duration=3500&lines=Hello+World!;+I'm+Isaac+Souza!;Software+Developer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Hello+World!;+I'm+Isaac+Souza!;Software+Developer!" />
 </div>
 <hr>
 <h3>Sobre mim!</h3>
@@ -19,7 +19,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Node Js](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=node.js)
 
 
 **- Utilidades**
